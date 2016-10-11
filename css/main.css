@@ -1,0 +1,14 @@
+.intro {
+  line-height: 10px;
+  background-color: lightblue;
+  height: 100px;
+  border: 1px solid black;
+}
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 3em;
+  color: blue;
+}
